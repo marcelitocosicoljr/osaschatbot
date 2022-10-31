@@ -1,2 +1,2 @@
 # osaschatbot
-Office of the Students Affairs and Services (OSAS) Chatbot API
+Office of the the Students Affairs and Services (OSAS) Chatbot API
