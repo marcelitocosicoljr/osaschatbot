@@ -25,4 +25,4 @@ def user():
     data = jsony['msg']
     return str(bot.get_response(data))
 
-app.run()
+app.run(debug=False)
